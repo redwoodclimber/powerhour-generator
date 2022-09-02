@@ -1,0 +1,6 @@
+[youtube] zhIScvlFn2w: Downloading webpage
+[youtube] zhIScvlFn2w: Downloading android player API JSON
+[info] zhIScvlFn2w: Downloading 1 format(s): 22
+[download] Destination: /mnt/c/Users/Chase/Documents/vscode/Python/powerhour/clips/download/📺Soda City Funk.mp4
+[ffmpeg] Downloaded 1188378 bytes
+[download] 100% of 1.13MiB in 00:00 at 1.59MiB/s

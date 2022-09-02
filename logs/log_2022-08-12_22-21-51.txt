@@ -1,0 +1,7 @@
+[youtube] luQSQuCHtcI: Downloading webpage
+[youtube] luQSQuCHtcI: Downloading android player API JSON
+[youtube] luQSQuCHtcI: Downloading player 4c3f79c5
+[info] luQSQuCHtcI: Downloading 1 format(s): 22
+[download] Destination: /mnt/c/Users/Chase/Documents/vscode/Python/powerhour/clips/download/INZO - Overthinker.mp4
+[ffmpeg] Downloaded 377118 bytes
+[download] 100% of 368.28KiB in 00:00 at 556.31KiB/s

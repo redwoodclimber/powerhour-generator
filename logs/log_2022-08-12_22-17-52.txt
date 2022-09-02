@@ -1,0 +1,5 @@
+[youtube] mQpStWnvWao: Downloading webpage
+[youtube] mQpStWnvWao: Downloading android player API JSON
+[info] mQpStWnvWao: Downloading 1 format(s): 22
+[download] /mnt/c/Users/Chase/Documents/vscode/Python/powerhour/clips/download/AFTER DARK - berserk edit - guts.mp4 has already been downloaded
+[download] 100% of 1.39MiB

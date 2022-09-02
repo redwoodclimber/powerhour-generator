@@ -1,0 +1,5 @@
+[youtube] zhIScvlFn2w: Downloading webpage
+[youtube] zhIScvlFn2w: Downloading android player API JSON
+[info] zhIScvlFn2w: Downloading 1 format(s): 22
+[download] /mnt/c/Users/Chase/Documents/vscode/Python/powerhour/clips/download/📺Soda City Funk.mp4 has already been downloaded
+[download] 100% of 1.13MiB

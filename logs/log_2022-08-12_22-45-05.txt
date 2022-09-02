@@ -1,0 +1,5 @@
+[youtube] KhaFDyCso5M: Downloading webpage
+[youtube] KhaFDyCso5M: Downloading android player API JSON
+[info] KhaFDyCso5M: Downloading 1 format(s): 22
+[download] Destination: /mnt/c/Users/Chase/Documents/vscode/Python/powerhour/clips/download/Like You Do.mp4
+

@@ -1,0 +1,12 @@
+[youtube] luQSQuCHtcI: Downloading webpage
+[youtube] luQSQuCHtcI: Downloading android player API JSON
+[youtube] luQSQuCHtcI: Downloading player 4c3f79c5
+[info] luQSQuCHtcI: Downloading 1 format(s): 22
+[download] /mnt/c/Users/Chase/Documents/vscode/Python/powerhour/clips/download/INZO - Overthinker.mp4 has already been downloaded
+[download] 100% of 2.77MiB
+[youtube] Ogph75RXFoo: Downloading webpage
+[youtube] Ogph75RXFoo: Downloading android player API JSON
+[info] Ogph75RXFoo: Downloading 1 format(s): 22
+[download] Destination: /mnt/c/Users/Chase/Documents/vscode/Python/powerhour/clips/download/Drakengard 3 - Aethervox (but more Emi Evans).mp4
+[ffmpeg] Downloaded 1874622 bytes
+[download] 100% of 1.79MiB in 00:00 at 2.66MiB/s

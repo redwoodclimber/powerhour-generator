@@ -1,0 +1,6 @@
+[youtube] mQpStWnvWao: Downloading webpage
+[youtube] mQpStWnvWao: Downloading android player API JSON
+[info] mQpStWnvWao: Downloading 1 format(s): 22
+[download] Destination: /mnt/c/Users/Chase/Documents/vscode/Python/powerhour/clips/download/AFTER DARK - berserk edit - guts.mp4
+[ffmpeg] Downloaded 1452669 bytes
+[download] 100% of 1.39MiB in 00:00 at 1.65MiB/s

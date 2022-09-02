@@ -1,0 +1,6 @@
+[youtube] 39T7NY_W3lQ: Downloading webpage
+[youtube] 39T7NY_W3lQ: Downloading android player API JSON
+[info] 39T7NY_W3lQ: Downloading 1 format(s): 18
+[download] Destination: /mnt/c/Users/Chase/Documents/vscode/Python/powerhour/clips/download/The Apples in Stereo - Innerspace.mp4
+[ffmpeg] Downloaded 443040 bytes
+[download] 100% of 432.66KiB in 00:00 at 1.04MiB/s
